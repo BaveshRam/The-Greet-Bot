@@ -10,7 +10,23 @@ Its a common tradition in India to greet and welcome all guests who come to your
 # How can the Robot do this ?
 Its quite simple, Let me show you the process of building the robot and programming the Jetson Nano.
 
-At the Basic, Lets split the tasks into 2: Programming and Hardware
+At the Basic level, Lets split the tasks into 2: Programming and Hardware
+## Hardware
+#### Components you'll need:
+1. Jetson Nano 4GB
+2. 32GB (min) memory card
+3. C270 Logitech Camera
+4. 3 Servo Motors
+5. Material to mount the servos on (I used PVC pipes)
+6. Arduino Board
+7. IR sensor
+8. Connecting Wires
+
+Connect the Servos and the sensor to the Arduino as shown here:
+<image>
+  
+Connect the arduino and the webcam to the USB ports
+ 
 
 ## Programming
 For Programming you'll require these libraries first. We'll need to install them.
