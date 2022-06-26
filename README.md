@@ -1,3 +1,28 @@
 # The-Greet-Bot
 To greet the and welcome all, a robot made using Jetson Nano, Media pipe and CV2
-dshdhdfhdhdhdh
+
+Its a common tradition in India to greet and welcome all guests who come to your home, a party or literally anywhere. There is this one person, who always at the entrance ready to greet all guests and then welcome them. Why don't we create a robot that can imitate this greeting task !!
+# What can the Robot do !
+1. Recognize you
+2. Give you a handshake
+3. Give you a High-Five
+4. Bless You !!!
+# How can the Robot do this ?
+Its quite simple, Let me show you the process of building the robot and programming the Jetson Nano.
+
+At the Basic, Lets split the tasks into 2: Programming and Hardware
+
+## Programming
+For Programming you'll require these libraries first. We'll need to install them.
+1. Mediapipe
+2. pyfirmata
+3. cv2
+4. time
+
+Use these links to know, how to download the required libraries
+https://youtu.be/0TBeN0Kd9zM
+https://forums.developer.nvidia.com/t/install-opencv-for-python3-in-jetson-nano/74042
+https://roboticsbackend.com/control-arduino-with-python-and-pyfirmata-from-raspberry-pi/
+
+Use the python program added to the repository and use a IDE of your choice to run the program.
+
