@@ -23,10 +23,9 @@ At the Basic level, Lets split the tasks into 2: Programming and Hardware
 8. Connecting Wires
 
 Connect the Servos and the sensor to the Arduino as shown here:
-![image](https://user-images.githubusercontent.com/65992357/175828574-b6c6ceb3-324d-4b6b-aa9e-a9a5fbb0fd1d.png)
-
+![Screenshot (20)](https://user-images.githubusercontent.com/65992357/175828704-bafcac5f-a674-455c-a1a4-a1a61372f699.png)
   
-Connect the arduino and the webcam to the USB ports
+Connect the arduino and the webcam to the USB ports of the Jetson Nano
  
 
 ## Programming
