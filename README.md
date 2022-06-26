@@ -23,7 +23,8 @@ At the Basic level, Lets split the tasks into 2: Programming and Hardware
 8. Connecting Wires
 
 Connect the Servos and the sensor to the Arduino as shown here:
-<image>
+![image](https://user-images.githubusercontent.com/65992357/175828574-b6c6ceb3-324d-4b6b-aa9e-a9a5fbb0fd1d.png)
+
   
 Connect the arduino and the webcam to the USB ports
  
@@ -41,4 +42,10 @@ https://forums.developer.nvidia.com/t/install-opencv-for-python3-in-jetson-nano/
 https://roboticsbackend.com/control-arduino-with-python-and-pyfirmata-from-raspberry-pi/
 
 Use the python program added to the repository and use a IDE of your choice to run the program.
+  
+#### Arduino
+  Pyfirmata is used to control the Arduino board. Download the Arduino IDE on your Jetson or on your PC. Through the Arduino IDE, upload the Standard Firmata program.
+  To access the Standard Firmata Program = File --> Examples --> Firmata --> Standard Firmata
+  
+  After this we can program the Arduino through the Python Program
 
