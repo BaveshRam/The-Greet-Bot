@@ -23,11 +23,13 @@ At the Basic level, Lets split the tasks into 2: Programming and Hardware
 
 Connect the Servos and the sensor to the Arduino as shown here:
 ![Screenshot (20)](https://user-images.githubusercontent.com/65992357/175828704-bafcac5f-a674-455c-a1a4-a1a61372f699.png)
-![Camera (1)](https://user-images.githubusercontent.com/65992357/176002219-0e59ccce-9068-467b-af0d-3914bddeffe1.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/65992357/176008473-c7b88d58-44be-4895-b233-e6e579a107db.png)
+
+
 
 #### Robot - Degree of Freedom
 Degree of freedom is the axis that the robot can move about. This robot makes use of a 3 Axis Robot
-![New Product (1)](https://user-images.githubusercontent.com/65992357/176007817-288fe292-0472-4867-8f2d-47418457b395.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/65992357/176008340-45d4c326-5006-486c-94b6-3df1cca68a11.png)
   
 Connect the arduino and the webcam to the USB ports of the Jetson Nano
  
