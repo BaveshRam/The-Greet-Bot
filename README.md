@@ -6,7 +6,6 @@ Its a common tradition in India to greet and welcome all guests who come to your
 1. Recognize you
 2. Give you a handshake
 3. Give you a High-Five
-4. Bless You !!!
 # How can the Robot do this ?
 Its quite simple, Let me show you the process of building the robot and programming the Jetson Nano.
 
