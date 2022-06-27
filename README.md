@@ -32,6 +32,10 @@ Degree of freedom is the axis that the robot can move about. This robot makes us
 ![Screenshot (24)](https://user-images.githubusercontent.com/65992357/176008340-45d4c326-5006-486c-94b6-3df1cca68a11.png)
   
 Connect the arduino and the webcam to the USB ports of the Jetson Nano
+
+### How to place wthe Camera
+![Screenshot (25)](https://user-images.githubusercontent.com/65992357/176015354-ec8273f3-6131-4d98-aa07-fd0762240b51.png)
+
  
 
 ## Programming
