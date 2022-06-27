@@ -41,8 +41,20 @@ https://forums.developer.nvidia.com/t/install-opencv-for-python3-in-jetson-nano/
 https://roboticsbackend.com/control-arduino-with-python-and-pyfirmata-from-raspberry-pi/
 
 Use the python program added to the repository and use a IDE of your choice to run the program.
+
+This setups up the Arduino Mega Board for the Pyfirmata Code. The servo motors are attached to Digital pins 8,9,10. The IR sensor is attached to the Digital pin 5
+
 ```
-hdhdhdhdhdhdhd
+board = pyfirmata.ArduinoMega('<Enter the port number>')
+
+iter8 = pyfirmata.util.Iterator(board)
+iter8.start()
+s1 = board.get_pin('d:9:s')
+s2 = board.get_pin('d:10:s')
+s3 = board.get_pin('d:8:s')
+dpin=board.get_pin('d:5:i')
+
+s2.write(100)
 ```
 
 ##### Mediapipe Hand Tracking
