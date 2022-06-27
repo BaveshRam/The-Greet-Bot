@@ -41,6 +41,9 @@ https://forums.developer.nvidia.com/t/install-opencv-for-python3-in-jetson-nano/
 https://roboticsbackend.com/control-arduino-with-python-and-pyfirmata-from-raspberry-pi/
 
 Use the python program added to the repository and use a IDE of your choice to run the program.
+```
+hdhdhdhdhdhdhd
+```
 
 ##### Mediapipe Hand Tracking
 The ability to understand the shape of the human hand and the motions are impaortant in our application. Various models available in Mediapipe is the Palm Detection model and Hard Landmarks model.
