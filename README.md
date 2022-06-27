@@ -2,6 +2,8 @@
 To greet the and welcome all, a robot made using Jetson Nano, Media pipe and CV2
 
 Its a common tradition in India to greet and welcome all guests who come to your home, a party or literally anywhere. There is this one person, who always at the entrance ready to greet all guests and then welcome them. Why don't we create a robot that can imitate this greeting task !!
+
+https://youtu.be/qg3gYb3ACgY
 # What can the Robot do !
 1. Recognize you
 2. Give you a handshake
