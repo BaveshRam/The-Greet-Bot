@@ -41,10 +41,16 @@ https://forums.developer.nvidia.com/t/install-opencv-for-python3-in-jetson-nano/
 https://roboticsbackend.com/control-arduino-with-python-and-pyfirmata-from-raspberry-pi/
 
 Use the python program added to the repository and use a IDE of your choice to run the program.
-  
+
+##### Mediapipe Hand Tracking
+The ability to understand the shape of the human hand and the motions are impaortant in our application. Various models available in Mediapipe is the Palm Detection model and Hard Landmarks model.
+https://google.github.io/mediapipe/solutions/hands.html
+
 #### Arduino
   Pyfirmata is used to control the Arduino board. Download the Arduino IDE on your Jetson or on your PC. Through the Arduino IDE, upload the Standard Firmata program.
   To access the Standard Firmata Program = File --> Examples --> Firmata --> Standard Firmata
+  ![Screenshot (21)](https://user-images.githubusercontent.com/65992357/175873363-c7d83979-9179-4ec7-ab0e-74a2b73e7b38.png)
+
   
   After this we can program the Arduino through the Python Program
 
